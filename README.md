@@ -2,16 +2,15 @@
 
 > English version
 
-This tool can scraping company employees data from Linkedin and crunchbase API then store those data in a SQL Database.
+This tool was made for scraping company employees data from Linkedin and crunchbase API then store those data in a SQL Database.
 
 ## Project information
 
 ### Objective
 
-Project carried out with Excellium Services (security consultant) company for the tutored project of the 3rd semester of the University. The goal was to create a tool which automatically and quickly retrieve informations about people and companies.
+Project carried out with Excellium Services (security consultant) company for the tutored project of the 3rd semester of my school. The goal was to create a tool which automatically and quickly retrieve informations about people and companies.
 
-* Developed for : IUT (DUT Informatique)
-* Project : Projet Tutoré S3
+* Developed with : University Institute of Technology (two-year university degree in IT)
 * Semester : 3
 * Number of people in project group : 4
 
@@ -37,8 +36,8 @@ Damian Lallement.
 
 Romain Rittier, Sofiane Aiche.
 
----
----
+---  
+
 ---
 
 > French version
@@ -52,7 +51,6 @@ Ce programme permet de scraper les données des employés d'une entreprise à pa
 Projet effectué avec l'entreprise Excellium Services dans le cadre du projet tutoré du 3ème semestre à l'IUT. (consultant en sécurité). Le but étant de créer un outil permettant de récuperer automatiquement et rapidement des informations sur des personnes et des entreprises.
 
 * Cadre : IUT (DUT Informatique)
-* Projet : Projet Tutoré S3
 * Semestre : 3
 * Nombre de personnes dans le groupe : 4
 
