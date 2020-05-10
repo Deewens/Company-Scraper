@@ -8,7 +8,7 @@ This tool can scraping company employees data from Linkedin and crunchbase API t
 
 ### Objective
 
-Project carried out with the Excellium Services company within the framework of the tutored project of the 3rd semester at the IUT. (security consultant). The goal was to create a tool to automatically and quickly retrieve information about people and companies.
+Project carried out with Excellium Services (security consultant) company for the tutored project of the 3rd semester of the University. The goal was to create a tool which automatically and quickly retrieve informations about people and companies.
 
 * Developed for : IUT (DUT Informatique)
 * Project : Projet Tutoré S3
