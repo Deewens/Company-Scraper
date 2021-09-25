@@ -1,77 +1,35 @@
 # Linkedin Scraper
 
-> English version
+This software is a data scraping tool that can extract company employees data from LinkedIn and from the Crunchbase API, then store those in a MySQL Database.
 
-This tool was made for scraping company employees data from Linkedin and crunchbase API then store those data in a SQL Database.
+## Objective
 
-## Project information
+College project carried out in partnership with the Excellium Services company (Which is a security consultant company). The goal was to create a tool which automatically and quickly retrieve information about people working in a company.
 
-### Objective
+## Issues
 
-Project carried out with Excellium Services (security consultant) company for the tutored project of the 3rd semester of my school. The goal was to create a tool which automatically and quickly retrieve informations about people and companies.
+Because this tool has not been updated since its creation in 2019, the current code base needs some changes to work. (Because of change in the LinkedIn DOM and Crunchbase API). Unfortunately, I can't update it myself as I have to work on others projects for my studies. But you can use my code to inspire your own projects. Feel free to contact me if you have any questions.
 
-* Developed with : University Institute of Technology (two-year university degree in IT)
-* Semester : 3
-* Number of people in project group : 4
-
-### Languages and technologies used
+## Languages and technologies
 
 Python, MySQL, API Crunchbase, Selenium
 
-### Authors
+## Authors
 
-#### Project Leader (management) :
+### Project Leader (management) :
 
 Damian Lallement
 
-#### Data scraping (bot) : 
+### Data scraping bot : 
 
-Adrien Dudon
+Adrien Dudon (Me)
 
-#### Database : 
+### Database : 
 
 Damian Lallement.
 
-#### GUI :
+### GUI :
 
 Romain Rittier, Sofiane Aiche.
-
----  
 
 ---
-
-> French version
-
-Ce programme permet de scraper les données des employés d'une entreprise à partir de Linkedin et de l'API Crunchbase, puis stock ses données dans une base de données SQL.
-
-## Informations relatives au projet
-
-### Objectif du projet
-
-Projet effectué avec l'entreprise Excellium Services dans le cadre du projet tutoré du 3ème semestre à l'IUT. (consultant en sécurité). Le but étant de créer un outil permettant de récuperer automatiquement et rapidement des informations sur des personnes et des entreprises.
-
-* Cadre : IUT (DUT Informatique)
-* Semestre : 3
-* Nombre de personnes dans le groupe : 4
-
-### Langages et technologies utilisés
-
-Python, MySQL, API Crunchbase, Selenium
-
-### Auteurs
-
-#### Chef de projet (gestion du projet) :
-
-Damian Lallement
-
-#### Récupération des données : 
-
-Adrien Dudon
-
-#### Base de données : 
-
-Damian Lallement.
-
-#### Interface Graphique :
-
-Romain Rittier, Sofiane Aiche.
